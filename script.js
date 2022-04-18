@@ -23,5 +23,6 @@ function save(){
     saveEl.innerText += prevData
     console.log(count)
     countEL.innerText = 0
+    count = 0
 }
 
